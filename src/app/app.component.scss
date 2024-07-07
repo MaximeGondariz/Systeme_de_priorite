@@ -1,0 +1,22 @@
+.main{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: baseline;
+}
+
+.character{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.action{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
